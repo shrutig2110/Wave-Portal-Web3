@@ -176,7 +176,7 @@ useEffect(() => {
         </div>
 
         <div className="bio"><p>
-          I am Shruti! I build my first Web3 project... Sounds cool? 
+          I am Shruti! This is my first Web3 project... Sounds cool? 
           Connect your Ethereum wallet and write a message or just wave at me!</p>
         </div>
         <center>  
